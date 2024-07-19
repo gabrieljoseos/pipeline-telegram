@@ -1,4 +1,4 @@
-# Repositório Projeto de Análise de dados
+# Repositório Pipeline-Telegram
 Projeto BigData - Pipeline de dados do Telegram
 
 Olá! Como vai? 👋 
