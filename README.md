@@ -1,8 +1,8 @@
 # Repositório Pipeline-Telegram
 Projeto BigData - Pipeline de dados do Telegram
 
-Olá! Como vai? 👋 
-Este é o repositório onde compartilho meu projeto de conclusão do curso de Análise de Dados da EBAC-Escola Britânica de Artes Criativas e Ciência. :mortar_board:
+Olá! Como vai? 👋 \
+Este é o repositório onde compartilho meu projeto de conclusão do curso de Análise de Dados da EBAC. :mortar_board: \
 Toda informação do projeto está no notebook, apresentado como *"Projeto_Pipeline_Gabriel.ipynb"*
 
 ## Objetivo
