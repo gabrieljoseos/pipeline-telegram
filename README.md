@@ -3,6 +3,7 @@ Projeto BigData - Pipeline de dados do Telegram
 
 Olá! Como vai? 👋 
 Este é o repositório onde compartilho meu projeto de conclusão do curso de Análise de Dados da EBAC-Escola Britânica de Artes Criativas e Ciência. :mortar_board:
+Toda informação do projeto está no notebook, apresentado como *"Projeto_Pipeline_Gabriel.ipynb"*
 
 ## Objetivo
 Desenvolver um pipeline de dados do Telegram. Integrar um bot do Telegram conhecido no mercado com API Gateway para armazenar e processar mensagens, apresentando via Athena. E assim, solucionar problemas para visualização eficaz dos dados.
